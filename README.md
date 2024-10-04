@@ -53,4 +53,4 @@ The EDA has revealed significant insights into sales performance, highlighting o
 This project is for educational purposes and is intended to showcase data analysis techniques. The dataset used may be subject to copyright, and appropriate licenses should be adhered to when using real-world data.
 
 ## Contact
-For questions or further information, please contact [Your Name] at [Your Email].
+For questions or further information, please contact Saurav Tripathi at sauravtripathi72@gmail.com 
